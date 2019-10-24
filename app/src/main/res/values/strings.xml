@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PdmdMasControles</string>
+
+    <string name="pais">Elige tu pais favorito</string>
+    <string name="ciudad">Escribe tu ciudad favorita</string>
+    <string name="gusta">Me gusta</string>
+    <string name="vivir">Me gustaria vivir alli</string>
+    <string name="noVivir">No me gustaria alli</string>
+    <string name="enviar">Enviar</string>
+</resources>
